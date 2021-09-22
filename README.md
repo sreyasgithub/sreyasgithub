@@ -1,10 +1,15 @@
-Hi ! Iam Sreya Pashikanti
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi ! Iam Sreya Pashikanti,B.Tech Graduate in Kakatiya Institute of Technology,Warangal
 
-<!---
-sreyasgithub/sreyasgithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am interested in frontend development. 
+
+currently I am  working as a frontent developer in KareWise since March 2021
+
+Skills : HTML,CSS,javascript,React JS,React Native
+
+Knowledge On: Bootstrap,React-Bootstrap,Material Ui
+
+
+
+Contact : sreyapashikanti@gmail.com
+
+
